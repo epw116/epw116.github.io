@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Emily Dobry
+#### Masters Candidate
+#### College of Agricultural Sciences
+#### Penn State University
 
-You can use the [editor on GitHub](https://github.com/epw116/epw116.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Bio
+Emily Dobry is a masters candidate in the College of Agricultural Sciences at Penn State University. Her current research focuses on domestically isolated strains of the emerging fungal pathogen _Gnomoniopsis castaneae_ and their effect on members of the Fagaceae family. Specifically, she is interested in investigating host specificity of the fungus and describing the domestic strains in relation to internationally isolated strains.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![image](https://user-images.githubusercontent.com/81630696/113335888-93d74900-92f3-11eb-9110-750aec8a1dc9.png)
+![image](https://user-images.githubusercontent.com/81630696/113335917-9d60b100-92f3-11eb-9cca-96b3fb24e233.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
-- Bulleted
-- List
+1. Campbell, Michael, Adams, Rachael, Dobry, Emily, Dobson, Kara C., Stefanick, Veronica, Till, Jessica. The Sprout Regulating Compound 1,4-Dimethylnaphthalene Exhibits Fungistatic Activity. _Journal of Agronomy Research_ 1 (3); 27-34 (2019).
 
-1. Numbered
-2. List
+2. Dobry, Emily, Schoeniger, Grace, Nutile, Sam. The effect of salinity fluctuation in freshwater streams on the fecundity of post-diapause Chironomus dilutus. _Ecotoxicology_ 30 (2); 224-230 (2021)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epw116/epw116.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
